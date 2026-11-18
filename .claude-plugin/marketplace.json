@@ -1,0 +1,11 @@
+{
+  "name": "aitor",
+  "owner": { "name": "Desarrollo" },
+  "plugins": [
+    {
+      "name": "educaeduPlugins",
+      "source": "./plugins/educaedu",
+      "description": "Skills comunes para proyectos PHP con DDD"
+    }
+  ]
+}
