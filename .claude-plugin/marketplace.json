@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "educaeduPlugins",
-      "source": "./plugins/educaedu",
+      "source": "./plugins",
       "description": "Skills comunes para proyectos PHP con DDD"
     }
   ]
